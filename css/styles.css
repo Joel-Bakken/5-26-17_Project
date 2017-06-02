@@ -13,7 +13,7 @@ h1 {
 
 img {
   max-height: 275px;
-  max-width: 275x;
+  max-width: 275px;
 }
 span {
   color: blue;
@@ -37,4 +37,9 @@ body {
 #line {
   height: 110px;
   width: 1000px;
+}
+
+.col-lg-3 {
+	border: thin;
+	border-color: pink;
 }
